@@ -8,6 +8,7 @@ This repository contains a Python script that uses machine learning to predict t
 
 The script uses a neural network model implemented using TensorFlow and Keras. The model is trained on a dataset of Dota2 games, which is split into training, validation, and testing sets. The model's performance is evaluated based on its accuracy on the testing set.
 
+
 ## Code Structure
 
 The code can be divided into several sections:
