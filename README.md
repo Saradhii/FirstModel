@@ -1,6 +1,5 @@
 # Dota2 Game Result Prediction
-
-<img src="https://th.bing.com/th/id/OIG.H1LJsc7J07lVh10zF2ho?pid=ImgGn"/>
+![OIG](https://github.com/Saradhii/FirstModel/assets/99667252/f0c3e666-7e9d-400d-bfbe-f68d2fa54fd1)
 
 This repository contains a Python script that uses machine learning to predict the results of Dota2 games.
 
